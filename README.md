@@ -1,6 +1,6 @@
-# node-packages [![Build Status](https://github.com/ffflorian/node-packages/workflows/Build/badge.svg)](https://github.com/ffflorian/node-packages/actions/)
+# node-packages
 
-My Node.js packages
+A fork of https://github.com/ffflorian/node-packages/
 
 ## Packages
 
