@@ -1,12 +1,12 @@
 {
-  "author": "Florian Imdahl <git@ffflorian.de>",
+  "author": "Vercelne <xdev58bo@gmail.com>",
   "bin": {
     "ntpclient": "dist/cli.js"
   },
   "dependencies": {
     "commander": "10.0.0"
   },
-  "description": "A TypeScript implementation of the NTP Client Protocol",
+  "description": "A TypeScript and web implementation of the NTP Client Protocol",
   "devDependencies": {
     "rimraf": "4.1.2",
     "typescript": "4.9.5"
@@ -34,5 +34,5 @@
     "start": "ts-node src/cli.ts",
     "test": "ts-node -P tsconfig.jasmine.json ../../node_modules/.bin/jasmine"
   },
-  "version": "1.1.5"
+  "version": "1.2.0"
 }
