@@ -20,7 +20,7 @@
   ],
   "license": "GPL-3.0",
   "main": "dist/index.js",
-  "name": "ntpclient",
+  "name": "ntpclient-web",
   "publishConfig": {
     "directory": "flattened"
   },

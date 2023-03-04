@@ -18,7 +18,7 @@ A fork of https://github.com/ffflorian/node-packages/
 - [`mock-udp`](./packages/mock-udp) [![npm version](https://img.shields.io/npm/v/@ffflorian/mock-udp.svg)](https://npmjs.com/packages/@ffflorian/mock-udp)
 - [`my-timezone`](./packages/my-timezone) [![npm version](https://img.shields.io/npm/v/my-timezone.svg)](https://npmjs.com/packages/my-timezone)
 - [`ntfy`](./packages/ntfy) [![npm version](https://img.shields.io/npm/v/ntfy.svg)](https://npmjs.com/packages/ntfy)
-- [`ntpclient`](./packages/ntpclient) [![npm version](https://img.shields.io/npm/v/ntpclient.svg)](https://npmjs.com/packages/ntpclient)
+- [`ntpclient-web`](./packages/ntpclient)
 - [`pixelflut`](./packages/pixelflut) [![npm version](https://img.shields.io/npm/v/pixelflut.svg)](https://npmjs.com/packages/pixelflut)
 - [`publish-flat`](./packages/publish-flat) [![npm version](https://img.shields.io/npm/v/publish-flat.svg)](https://npmjs.com/packages/publish-flat)
 - [`quick-sort`](./packages/quick-sort)
