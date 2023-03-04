@@ -2006,6 +2006,14 @@ chownr@^2.0.0:
   resolved "https://registry.npmjs.org/chownr/-/chownr-2.0.0.tgz#15bfbe53d2eab4cf70f18a8cd68ebe5b3cb1dece"
   integrity sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==
 
+chrome-dgram@3.0.6:
+  version "3.0.6"
+  resolved "https://registry.npmjs.org/chrome-dgram/-/chrome-dgram-3.0.6.tgz#2288b5c7471f66f073691206d36319dda713cf55"
+  integrity sha512-bqBsUuaOiXiqxXt/zA/jukNJJ4oaOtc7ciwqJpZVEaaXwwxqgI2/ZdG02vXYWUhHGziDlvGMQWk0qObgJwVYKA==
+  dependencies:
+    inherits "^2.0.4"
+    run-series "^1.1.9"
+
 ci-info@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/ci-info/-/ci-info-2.0.0.tgz#67a9e964be31a51e15e5010d58e6f12834002f46"
@@ -5266,6 +5274,13 @@ npmlog@^7.0.1:
     gauge "^5.0.0"
     set-blocking "^2.0.0"
 
+ntpclient@1.1.5:
+  version "1.1.5"
+  resolved "https://registry.npmjs.org/ntpclient/-/ntpclient-1.1.5.tgz#b4f4f10ba6f49b0f143b24d950800d9c93b62d1b"
+  integrity sha512-EiGjRxjufYUlwu7dtC1X2vEkGmNyEDIWiERkf49uW4TxKlae3WPux88obZLAohnecCQoiryT4mGnIytBzyG4jw==
+  dependencies:
+    commander "10.0.0"
+
 nx@15.7.0, "nx@>=15.5.2 < 16":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/nx/-/nx-15.7.0.tgz#40c1b0e0f8a4da498624a24bd2429600fad1032d"
@@ -6263,6 +6278,11 @@ run-parallel@^1.1.9:
   integrity sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==
   dependencies:
     queue-microtask "^1.2.2"
+
+run-series@^1.1.9:
+  version "1.1.9"
+  resolved "https://registry.npmjs.org/run-series/-/run-series-1.1.9.tgz#15ba9cb90e6a6c054e67c98e1dc063df0ecc113a"
+  integrity sha512-Arc4hUN896vjkqCYrUXquBFtRZdv1PfLbTYP71efP6butxyQ0kWpiNJyAgsxscmQg1cqvHY32/UCBzXedTpU2g==
 
 rxjs@^7.5.5:
   version "7.8.0"
